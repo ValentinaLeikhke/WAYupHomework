@@ -184,6 +184,9 @@ span {
   .container {
     width: 960px;
   }
+  .intro {
+    width: auto;
+  }
 }
 
 /* 768px - 992px */
